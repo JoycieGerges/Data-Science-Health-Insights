@@ -53,7 +53,8 @@ Data-Science-Health-Insights/
 **Developed by [Joycie Gerges](mailto:joyciegerges@gmail.com)**
 
 📧 **Email:** [joyciegerges@gmail.com](mailto:joyciegerges@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/joycie-gerges-b45514248/)
+🌐 **[My Portfolio](https://joycieportfolio.netlify.app)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/joycie-gerges-b45514248)**
 
 ---
 
